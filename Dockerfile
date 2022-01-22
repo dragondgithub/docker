@@ -1,1 +1,1 @@
-FROM docker.io/goharbor/harbor-portal:v2.4.1
+FROM docker.io/goharbor/harbor-jobservice:v2.4.1
