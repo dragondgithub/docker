@@ -1,1 +1,1 @@
-FROM docker.io/goharbor/harbor-registryctl:v2.4.1
+FROM docker.io/goharbor/chartmuseum-photon:v2.4.1
