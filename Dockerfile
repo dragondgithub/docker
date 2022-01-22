@@ -1,1 +1,1 @@
-FROM docker.io/goharbor/harbor-db:v2.4.1
+FROM docker.io/goharbor/harbor-exporter:v2.4.1
