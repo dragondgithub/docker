@@ -1,1 +1,1 @@
-FROM docker.io/goharbor/notary-signer-photon:v2.4.1
+FROM docker.io/goharbor/harbor-db:v2.4.1
