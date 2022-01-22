@@ -1,1 +1,1 @@
-FROM docker.io/bitnami/nginx:1.21.5
+FROM k8s.gcr.io/goharbor/harbor-portal:v2.4.1
