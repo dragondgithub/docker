@@ -1,1 +1,1 @@
-FROM docker.io/goharbor/registry-photon:v2.4.1
+FROM docker.io/goharbor/nginx-photon:v2.4.1
