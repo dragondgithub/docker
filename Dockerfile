@@ -1,1 +1,1 @@
-FROM docker.io/goharbor/trivy-adapter-photon:v2.4.1
+FROM docker.io/goharbor/notary-server-photon:v2.4.1
