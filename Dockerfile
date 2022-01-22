@@ -1,1 +1,1 @@
-FROM docker.io/goharbor/nginx-photon:v2.4.1
+FROM docker.io/goharbor/harbor-jobservice:v2.4.1
